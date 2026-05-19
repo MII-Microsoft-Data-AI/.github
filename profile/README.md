@@ -53,7 +53,7 @@ AI agents to support ticket processing and service workflows.
 ### 4. Fraud Document Detection Agent
 AI agent for detecting suspicious or fraudulent documents.
 
-- Demo: [Open Demo](https://freddy-ai-gngndvevaya7fear.azurewebsites.net/)
+- Demo: [MII Fraud Detection](https://mii-fraud-detection.azurewebsites.net/)
 
 ### 5. Bank Customer Service w/ Human In The Loop
 Customer service experience powered by AI with human oversight for better accuracy and control.
