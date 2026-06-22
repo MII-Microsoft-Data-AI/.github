@@ -65,6 +65,11 @@ An AI demo for governance, risk, and compliance workflows.
 
 - Demo: [Open Demo](https://mii-grc-ai-demo.azurewebsites.net)
 
+### 7. Recruitment Intellegence Platform
+An AI-powered CV screening and candidate management platform. 
+
+- Demo: [MII E-Recruitement](https://mii-erecruitement.azurewebsites.net/)
+
 ---
 
 ## Contact for PoC or Book a Demo
