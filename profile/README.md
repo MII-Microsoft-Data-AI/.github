@@ -70,6 +70,11 @@ An AI-powered CV screening and candidate management platform.
 
 - Demo: [MII E-Recruitement](https://mii-erecruitement.azurewebsites.net/)
 
+### 8. AI Dashboard Template 
+Fullstack starter template for AI applications.
+
+- Demo: [AI Dashboard Template](https://mii-dashboard-ai.azurewebsites.net/)
+
 ---
 
 ## Contact for PoC or Book a Demo
